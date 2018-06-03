@@ -10,5 +10,8 @@ A beautiful laut.fm Radio template for everyone!
 - Edit the config.php to your needs
 - Done!
 
-# Infos
+# Downloads and more
+ZIP Download: (http://aloow.de/templates/downloads/grey-radio.zip)
+
+# Note
 I hope you have fun with the Radio Template!
