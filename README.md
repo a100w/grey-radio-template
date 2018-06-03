@@ -11,7 +11,7 @@ A beautiful laut.fm Radio template for everyone!
 - Done!
 
 # Downloads and more
-ZIP Download: http://aloow.de/templates/downloads/grey-radio.zip
+ZIP Download: http://aloow.de/templates/downloads/grey-radio.zip <br>
 Demo: http://aloow.de/templates/demos/grey-radio/
 
 # Note
