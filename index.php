@@ -44,7 +44,7 @@ include 'config.php';
         }
        
         $(document).ready(function(){
-            window.setInterval("refreshContent()", 300);
+            window.setInterval("refreshContent()", 600);
             refreshContent();
         });
     </script>
@@ -130,7 +130,7 @@ include 'config.php';
                 <p><a href="mailto:<?php echo $email; ?>"><?php echo $email; ?></a></p>
                 <ul class="list-inline banner-social-buttons">
                     <li>
-                        <a href="https://twitter.com/randyfmde" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+                        <a href="#" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                     </li>
                 </ul>
             </div>
